@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "outFile": "main.js"
+    }
+}
